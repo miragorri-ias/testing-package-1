@@ -1,0 +1,23 @@
+{
+  "name": "test-package-1",
+  "version": "1.0.0",
+  "description": "Testing package 1 for private npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miragorri-ias/testing-package-1"
+  },
+  "keywords": [
+    "testing",
+    "package"
+  ],
+  "author": "Manuel Rueda Iragorri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miragorri-ias/testing-package-1/issues"
+  },
+  "homepage": "https://github.com/miragorri-ias/testing-package-1"
+}
